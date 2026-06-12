@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#1f2933" />
+  <!-- компас: стрелка, указывающая путь -->
+  <circle cx="32" cy="32" r="20" fill="none" stroke="#9aa5b1" stroke-width="3" />
+  <polygon points="32,14 38,34 32,30 26,34" fill="#f0b429" />
+  <polygon points="32,50 26,30 32,34 38,30" fill="#7b8794" />
+  <circle cx="32" cy="32" r="3" fill="#f7f7f5" />
+</svg>
