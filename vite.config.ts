@@ -2,10 +2,10 @@ import { defineConfig } from 'vite';
 import preact from '@preact/preset-vite';
 import { VitePWA } from 'vite-plugin-pwa';
 
-// На GitHub Pages проект публикуется по пути /gmm-pub/.
+// На GitHub Pages проект публикуется по пути /GMM-pub/ (регистр как у имени репо).
 // В режиме разработки база — корень.
 export default defineConfig(({ mode }) => ({
-  base: mode === 'production' ? '/gmm-pub/' : '/',
+  base: mode === 'production' ? '/GMM-pub/' : '/',
   plugins: [
     preact(),
     VitePWA({
