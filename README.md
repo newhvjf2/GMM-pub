@@ -72,9 +72,9 @@ npm run preview
 собирает приложение и публикует на GitHub Pages.
 
 Один раз включи Pages: **Settings → Pages → Build and deployment → Source:
-GitHub Actions**. Адрес приложения: `https://<логин>.github.io/gmm-pub/`.
+GitHub Actions**. Адрес приложения: `https://<логин>.github.io/GMM-pub/`.
 
-> Базовый путь задан как `/gmm-pub/` в `vite.config.ts`. Если имя репозитория
+> Базовый путь задан как `/GMM-pub/` в `vite.config.ts`. Если имя репозитория
 > другое — поправь `base`.
 
 ## ИИ-координатор
